@@ -14,7 +14,7 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-response = input("Would you like a compliment? ").strip().lower()
+response = input("Would you like a compliment? ").strip()
 
 if response == "yes":
     print("You have wonderful eyes!")
