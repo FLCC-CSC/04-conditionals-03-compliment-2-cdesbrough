@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Corey Desbrough
+# DATE: 02/26/2026
+# BRIEF DESCRIPTION: compliment 02
 
 
 
@@ -14,7 +14,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+response = input("Would you like a compliment? ").strip()
 
+if response == "yes":
+    print("You have wonderful eyes.")
+
+print("Thank you for playing.")
 
 
 
@@ -71,7 +76,7 @@ Thank you for playing.
 
 1. Did you struggle with this lab (YES/NO)?
 
-
+# No
 
 
 
