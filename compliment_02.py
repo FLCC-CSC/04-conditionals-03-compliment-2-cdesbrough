@@ -17,7 +17,7 @@
 response = input("Would you like a compliment? ").strip()
 
 if response == "yes":
-    print("You have wonderful eyes!")
+    print("You have wonderful eyes.")
 else:
     print("No compliment for you!")
 
